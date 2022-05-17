@@ -1,0 +1,9 @@
+Nama: ale
+Umur: 10
+Alamat: jogja
+Nama: Jihan
+Umur: 18
+Alamat: solo
+Nama: aiueo
+Umur: 14
+Alamat: semarang
